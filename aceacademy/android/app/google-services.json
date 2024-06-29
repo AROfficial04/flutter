@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682705003276",
+    "project_id": "aceacademy-61b24",
+    "storage_bucket": "aceacademy-61b24.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682705003276:android:4d37e9526b69514cd25f29",
+        "android_client_info": {
+          "package_name": "com.example.aceacademy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpPCJFpCecAk65uCSYFWNyPSA-RWnxyBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
